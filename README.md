@@ -9,3 +9,5 @@ To implement:
 -go to .minecraft
 -go to resourcepacks folder
 -place the unzipped file into the folder
+
+Changes: pumpkin, cobblestone, dirt, grass, sheep, some wool/carpet, gold ore, diamond, diamond ore, others
