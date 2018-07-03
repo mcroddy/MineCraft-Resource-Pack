@@ -1,6 +1,6 @@
 # MineCraft-Resource-Pack
 Pastel Pack
-My custom MineCraft resource pack. Resource packs change sounds and textures in the game. Currently only changes textures. In progress.
+My custom MineCraft resource pack. Resource packs change sounds and textures in the game. Currently only changes textures. 
 Made for MineCraft version 1.12.
 
 To implement:
